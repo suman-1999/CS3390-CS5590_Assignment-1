@@ -1,0 +1,57 @@
+Date,Day,Time,Day_Type,Category,Person,Crowd_Level,Time_to_Finish (min)
+21-09-2026,Monday,08:05,Working Day,Breakfast,MK,Low,13
+21-09-2026,Monday,12:42,Working Day,Lunch,MK,Medium,18
+21-09-2026,Monday,17:18,Working Day,Tea,MK,Low,7
+21-09-2026,Monday,19:48,Working Day,Dinner,MK,Medium,19
+22-09-2026,Tuesday,08:18,Working Day,Breakfast,MK,Low,15
+22-09-2026,Tuesday,13:27,Working Day,Lunch,MK,High,23
+22-09-2026,Tuesday,17:32,Working Day,Tea,MK,Low,9
+22-09-2026,Tuesday,19:52,Working Day,Dinner,MK,Medium,21
+23-09-2026,Wednesday,07:52,Working Day,Breakfast,MK,Low,14
+23-09-2026,Wednesday,13:34,Working Day,Lunch,MK,High,24
+23-09-2026,Wednesday,,Working Day,Tea,MK,,
+23-09-2026,Wednesday,19:44,Working Day,Dinner,MK,Medium,20
+24-09-2026,Thursday,07:42,Working Day,Breakfast,MK,Low,12
+24-09-2026,Thursday,12:38,Working Day,Lunch,MK,Low,17
+24-09-2026,Thursday,17:21,Working Day,Tea,MK,Low,6
+24-09-2026,Thursday,20:03,Working Day,Dinner,MK,Medium,18
+25-09-2026,Friday,08:31,Holiday,Breakfast,MK,Low,16
+25-09-2026,Friday,12:51,Holiday,Lunch,MK,High,22
+25-09-2026,Friday,17:39,Holiday,Tea,MK,Low,8
+25-09-2026,Friday,19:57,Holiday,Dinner,MK,Medium,23
+26-09-2026,Saturday,08:32,Weekend,Breakfast,MK,Low,14
+26-09-2026,Saturday,12:46,Weekend,Lunch,MK,Low,18
+26-09-2026,Saturday,,Weekend,Tea,MK,,
+26-09-2026,Saturday,19:51,Weekend,Dinner,MK,Medium,20
+27-09-2026,Sunday,08:47,Weekend,Breakfast,MK,Low,15
+27-09-2026,Sunday,13:01,Weekend,Lunch,MK,Medium,20
+27-09-2026,Sunday,17:41,Weekend,Tea,MK,Low,9
+27-09-2026,Sunday,20:06,Weekend,Dinner,MK,High,31
+28-09-2026,Monday,07:46,Working Day,Breakfast,MK,Low,13
+28-09-2026,Monday,12:44,Working Day,Lunch,MK,Medium,20
+28-09-2026,Monday,17:12,Working Day,Tea,MK,Low,8
+28-09-2026,Monday,19:46,Working Day,Dinner,MK,Medium,21
+29-09-2026,Tuesday,08:23,Working Day,Breakfast,MK,Low,16
+29-09-2026,Tuesday,13:31,Working Day,Lunch,MK,High,22
+29-09-2026,Tuesday,17:48,Working Day,Tea,MK,Medium,11
+29-09-2026,Tuesday,19:54,Working Day,Dinner,MK,Medium,22
+30-09-2026,Wednesday,08:01,Working Day,Breakfast,MK,Low,14
+30-09-2026,Wednesday,13:38,Working Day,Lunch,MK,High,25
+30-09-2026,Wednesday,,Working Day,Tea,MK,,
+30-09-2026,Wednesday,20:08,Working Day,Dinner,MK,High,48
+01-10-2026,Thursday,07:55,Working Day,Breakfast,MK,Low,12
+01-10-2026,Thursday,12:41,Working Day,Lunch,MK,Medium,19
+01-10-2026,Thursday,17:16,Working Day,Tea,MK,Low,7
+01-10-2026,Thursday,19:47,Working Day,Dinner,MK,Medium,20
+02-10-2026,Friday,08:34,Holiday,Breakfast,MK,Low,15
+02-10-2026,Friday,,Holiday,Lunch,MK,,
+02-10-2026,Friday,17:43,Holiday,Tea,MK,Medium,10
+02-10-2026,Friday,19:58,Holiday,Dinner,MK,Medium,22
+03-10-2026,Saturday,08:47,Working Day,Breakfast,MK,Medium,16
+03-10-2026,Saturday,12:43,Working Day,Lunch,MK,Medium,21
+03-10-2026,Saturday,17:31,Working Day,Tea,MK,Low,8
+03-10-2026,Saturday,19:52,Working Day,Dinner,MK,Medium,19
+04-10-2026,Sunday,08:53,Weekend,Breakfast,MK,Low,14
+04-10-2026,Sunday,13:18,Weekend,Lunch,MK,Medium,21
+04-10-2026,Sunday,17:36,Weekend,Tea,MK,Low,10
+04-10-2026,Sunday,20:11,Weekend,Dinner,MK,High,29
